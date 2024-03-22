@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #toolbar {
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  canvas {
+    border: 1px solid #000;
+    margin: 10px 17%;
+  }
+
+  input{
+    margin: 2px 1rem 2px 0;
+  }
+
+  #colorPicker{
+    margin-left: 15rem;
+    margin-right: 2rem;
+  }
+
+  button{
+    margin-right: 2rem;
+    padding: 10px;
+  }
+  
