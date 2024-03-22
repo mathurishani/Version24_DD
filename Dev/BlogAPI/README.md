@@ -23,5 +23,5 @@
 
 
 <p align = 'center'>
-  <img src= ".\src\SS.png">
+  <img src= "SS.png">
 </p>
