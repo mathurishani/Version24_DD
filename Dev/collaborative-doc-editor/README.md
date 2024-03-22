@@ -1,7 +1,7 @@
 
 ## here is the hosted URL
 
-https://80a6-14-139-162-2.ngrok-free.app/ 
+https://80a6-14-139-162-22.ngrok-free.app/ 
 
 ## How to setup project
 
